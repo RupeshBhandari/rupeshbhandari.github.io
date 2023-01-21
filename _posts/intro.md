@@ -1,6 +1,5 @@
 ---
 title: Getting Started
-author: cotes
 ---
 
 ## Prerequisites
