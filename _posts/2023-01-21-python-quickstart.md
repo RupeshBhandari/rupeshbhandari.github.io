@@ -1,7 +1,7 @@
 ---
 title:  "Python Quickstart"
 author: Rupesh Bhandari
-date:   2023-01-21 22:10:00 +0545
+date:   2023-01-15 22:10:00 +0545
 categories: [Books]
 tags: [Python]
 ---
