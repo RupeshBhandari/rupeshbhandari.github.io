@@ -1,11 +1,10 @@
--------
+---
 title: "What is compounding?"
 author: Rupesh Bhandari
 date:   2023-01-21 21:06:00 +0545
 categories: [Finance]
 tags: [compounding, saving]
 ---
-
 
 Compounding is the process of earning interest on interest. It is a powerful tool that can help individuals grow their wealth over time. The importance of time in compounding lies in the fact that the longer the money is invested, the more interest it will earn, which in turn earns even more interest. This creates a snowball effect that can lead to significant growth in wealth over time.
 
