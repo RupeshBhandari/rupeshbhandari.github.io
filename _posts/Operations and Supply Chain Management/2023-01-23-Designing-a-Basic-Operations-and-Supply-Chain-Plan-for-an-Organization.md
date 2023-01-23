@@ -197,7 +197,7 @@ Toyota Topped G.M. in U.S. Car Sales in 2021, a First for a Foreign Automaker (2
 Figure 1
 Dealers and outlets in Japan
 
-![Figure 1](assets/img/Operations/Picture1.png)
+![Figure 1](/assets/img/Operations/Picture1.png)
 
 Figure 2
 Production data per region
