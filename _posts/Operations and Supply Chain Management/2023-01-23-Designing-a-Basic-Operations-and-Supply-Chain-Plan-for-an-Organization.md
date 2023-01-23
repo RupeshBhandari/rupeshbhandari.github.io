@@ -5,13 +5,11 @@ categories: [MBA]
 tags: [Operations, Supply chain]
 ---
 
-Designing-a-Basic-Operations-and-Supply-Chain-Plan-for-an-Organization
-
 # Learning Objectives
 
-    - Design a basic operations plan.  
-    - Identify the basic operations and supply chain management strategies.  
-    - Draw conclusions based on the findings.  
+- Design a basic operations plan.  
+- Identify the basic operations and supply chain management strategies.  
+- Draw conclusions based on the findings.  
 
 ## Assignment Type
 
@@ -122,7 +120,7 @@ Discuss the strengths, weaknesses, opportunities, and competition the co
 
 (Approximate word limit: 500–600)  
 
-## Strengths
+### Strengths
 
 - Innovative production practices such as TPS, JIT and automation with people.
 - Strong focus on Research and Development.
@@ -133,14 +131,14 @@ Discuss the strengths, weaknesses, opportunities, and competition the co
 - Focus on automated driving to assist and promote safety using technology such as MIRAI.
 - Shift to connected cars with software first approach and use of big data for development of autonomous vehicles.
 
-## Weaknesses
+### Weaknesses
 
 - Gap in expectation versus reality in vehicle performance especially in electric vehicles
 - Shortage of essential components such as semiconductor
 - Increase in input costs as a result of supply chain disruption
 - Product recalls can affect brand image
 
-## Opportunities
+### Opportunities
 
 - Growing automobile industry especially in China and other emerging markets.
 - Localizing the design, manufacturing automobile and their parts and components as per the regions in which they are sold. This way the company can reduce exposure to currency rate fluctuations, trade restrictions and tariffs.
@@ -150,7 +148,7 @@ Discuss the strengths, weaknesses, opportunities, and competition the co
 - Using advanced information technologies to enhance productivity in the production process and product development.
 - Shift towards cars as a service along with integration of smart home and smart cities as a ecosystem.
 
-## Threats
+### Threats
 
 - New regulations intended to reduce negative effects on the ecosystem, increasing vehicle safety and improving fuel economy. Recall of the product because of non-compliance could increase costs and the operations are affected.
 - Sourcing of conflict minerals (gold, tin, tantalum and tungsten) from countries such as Congo and others could be prevalent in the supply chain.
@@ -197,25 +195,38 @@ Toyota Topped G.M. in U.S. Car Sales in 2021, a First for a Foreign Automaker (2
 Figure 1
 Dealers and outlets in Japan
 
-![Figure 1](/assets/img/Operations/Picture1.png)
+![Figure 1](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture1.png)
 
 Figure 2
 Production data per region
+![Figure 2](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture2.png)
 
 Figure 3
 Unit Sales per region
+![Figure 3](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture3.png)
 
 Figure 4
 Share price movement
+![Figure 4](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture4.png)
 
 Figure 5
 Market Capitalization movement
+![Figure 5](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture5.png)
+
 
 Figure 6
 Sales comparison of automobile companies
+![Figure 6](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture6.png)
+
 
 Figure 7
 Assembly Plant Flow
+![Figure 7](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture7.png)
 
 Figure 8
 Flow of Production Instructions
+![Figure 8](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture8.png)
+
+
+> Don't use the same file as this is for learning purpose only!
+{: .prompt-info }
