@@ -94,8 +94,10 @@ The company procures parts and components from all over word for its 50 overseas
 Distribution systems used in US can be further divided into three categories:
 Distribution of vehicles manufactured in North America:
 After factory, vehicles are brought to the marshalling yard, where they are prepared and shipped to dealership offices by truck or train.
+
 Distribution of vehicles produced overseas:
 Large containers are used to carry vehicles manufactured in Japan to ports in North America based on the proximity to dealers. Usually, the delivery time is between three to five weeks.
+
 Scion model of distribution:
 In Scion model, the automobiles arrive with only basic equipment installed to be further customized accordingly as per specifications.
 European distribution pattern is different due to lack of room for vehicle stock as most of the deals are situated in urban areas. Normally after production the product is moved to marshalling yard and then shipped or moved by truck to hub (consolidation place). Some small countries share a single hub whereas some bigger countries have multiple hubs. These ‘hubs’ perform the function of warehouse, and the inventory is managed in concert with dealer.
@@ -112,6 +114,7 @@ In 2019, Typhoon Hagibis caused huge damages in Japan, but the company’s opera
 In 2020, the world economy except China experienced a year-on-year contraction, in both advanced and developing countries due to COVID-19, as well as voluntary stay-at-home efforts and stay-at-home orders lead to difficult situations such as launch of substantial monetary easing measures and reduction in public spending in many countries around the world. In Europe resurgence of new cases and repetitive lockdowns triggered economic stagnation. USA, one of the biggest markets of the carmaker, recovered quickly due to major stimulus measures and monetary easing policy. In the midst of an economic slowdown in Japan triggered by spending tax raise in October 2019, the financial system suffered a sudden slowdown due to declaration of state of emergency and voluntary stay-at-home due to the epidemic. China experienced a rapid recovery from mid-2020 due to early suppression of the spread of COVID-19. The pent-up demand and the electric tax incentive increased the sales of electric vehicles in China whereas Other Asian nations experienced slowdown.
 The automotive industry was affected by the preceding factors due to which the industry suffered a year-on-year reduction for the third consecutive year causing a market contraction more than during the 2008 financial crisis. Both advanced and developing countries largely logged year-on-year contractions, including China, which achieved an immediate economic recovery, logged a year-on-year slowdown for the third consecutive year. Advanced markets, which had ample economic capability, have recovered more rapidly than developing markets, and the velocity of recovery has differed from nation to nation, as it is affected by the pervasiveness and seriousness of contaminations.
 With the tightening of the environment regulations and the expected discontinuation of sale of petrol and diesel vehicles has shifted the demand trajectory for electric vehicles. This has changed the company’s operations as the assembly line and supply chain are modified to serve excess demand of electric vehicles. New suppliers who supply electronic components for Electronic Vehicles are being integrated into the supply chain. For example, the company partnered with Denso for manufacturing and expansion of electronic parts at Toyota’s Hirose Plant for quick production structure. In 2017, the company entered a partnership with Panasonic for production of prismatic battery business. Similarly, Toyota and Mazda collaborated in production of compact cars based on hybrid technologies. Lithium-ion battery usage in electric vehicles demanded a new shift for the company and the company did so with collaboration with multiple new suppliers. In April 2019, the company gave away the royalty rights to multiple patents related to electrification-related technologies such as system controls, power control units (PCUs),  and electric motors.
+
 The company shifted their focus of operation to incorporate electric vehicles because of the heightened awareness and operating cost efficiency, incentives offered by governments around the world, leading to increase in demand, tightening of environmental regulations. The company gave the patents for free so to promote widespread use of battery electric vehicles. Various external factor changes mentioned above caused the change in operation and its strategy for remaining competitive in the market and for catering to new need of the consumers.
 
 ## Question 4  
@@ -144,7 +147,7 @@ Discuss the strengths, weaknesses, opportunities, and competition the co
 - Localizing the design, manufacturing automobile and their parts and components as per the regions in which they are sold. This way the company can reduce exposure to currency rate fluctuations, trade restrictions and tariffs.
 - Reduction of carbon emission from factories by investment in renewable energy generation system, purchase of renewable energy power (Toyota Motors Corporation, 2021).
 - Establishment of battery collection and recycling systems for battery swaption.
-- Growth in demand for electric vehicles as two-third of urban resident’s support ban on sale of new petrol and diesel vehicles after 2030 in Europe (Poliscanova, 2021).
+- Growth in demand for electric vehicles as two-third of urban resident’s support ban on sale of new petrol and diesel vehicles after 2030 in Europe[^fn-nth-2].
 - Using advanced information technologies to enhance productivity in the production process and product development.
 - Shift towards cars as a service along with integration of smart home and smart cities as a ecosystem.
 
@@ -178,20 +181,22 @@ The various issues that the company is facing during the COVID-19 crisis are as 
 - Reduced in demand due to disruption caused by pandemic.
 - Temporary shutdown or suspension of assembly of vehicle and components at factories in Japan and other regions.
 
-Due to the pandemic, achieving the 9 million sales target is going to be hard due to semiconductor shortage (“Toyota expect,” 2022). In 2021, the whole industry sold just over 15 million new vehicles well below the expectation of 2.5% (“Toyota Topped,” 2022). However, that is 2.5 percent more than in 2020. During the year the company reported an 8.9% decrease year-on-year, to 27.21 million yen. The unit sales dropped by 1.3 million (14.6%). The reduction in production volume due to demand shock affected the operating income and net profit. By region, the revenue decreased by 6.6% in Europe, 10.8 percent in North America, 9.1% in Japan and 11.4% in other regions. Due to better availability of semiconductor, the company is better poised than competitors for fulfilling the demand. The company expects its sales will increase by 2.4% [^fn-nth-3]. The share price of the company has increased from $108.08 to $199.77 In percentage terms, it is an increase of 84.84% (see Figure 4).  The market cap of the company has increased by 42.52% since 2019 (see Figure 5). The rise indicates that the company’s investors’ expectations are high. The company’s successful inventory management of semiconductors helped the company’s performance in comparison to rivals.
+Due to the pandemic, achieving the 9 million sales target is going to be hard due to semiconductor shortage[^fn-nth-5]. In 2021, the whole industry sold just over 15 million new vehicles well below the expectation of 2.5% [^fn-nth-6]. However, that is 2.5 percent more than in 2020. During the year the company reported an 8.9% decrease year-on-year, to 27.21 million yen. The unit sales dropped by 1.3 million (14.6%)[^fn-nth-4]. The reduction in production volume due to demand shock affected the operating income and net profit. By region, the revenue decreased by 6.6% in Europe, 10.8 percent in North America, 9.1% in Japan and 11.4% in other regions. Due to better availability of semiconductor, the company is better poised than competitors for fulfilling the demand. The company expects its sales will increase by 2.4% [^fn-nth-3]. The share price of the company has increased from $108.08 to $199.77 In percentage terms, it is an increase of 84.84% (see Figure 4).  The market cap of the company has increased by 42.52% since 2019 (see Figure 5). The rise indicates that the company’s investors’ expectations are high. The company’s successful inventory management of semiconductors helped the company’s performance in comparison to rivals.
 
 ## References
 
 [^footnote]: Boudette, E. N. (2022, January 4). Toyota Topped G.M. in U.S. Car Sales in 2021, a First for a Foreign Automaker. The New York Times. Toyota Topped G.M. in U.S. Car Sales in 2021 - The New York Times (nytimes.com)  
 
-Poliscanova, J. (2021, April 12). In cities 63% support EU ban on petrol and diesel car sales after 2030. Transport & Environment. In cities 63% support EU ban on petrol and diesel car sales after 2030 - Campaigning for cleaner transport in Europe | Transport & Environment (transportenvironment.org)
+[^fn-nth-2]: Poliscanova, J. (2021, April 12). In cities 63% support EU ban on petrol and diesel car sales after 2030. Transport & Environment. In cities 63% support EU ban on petrol and diesel car sales after 2030 - Campaigning for cleaner transport in Europe | Transport & Environment (transportenvironment.org)
 
-[^fn-nth-3] Sugiura, E. (2021, May 12). Toyota expects 2% profit rise as it shrugs off chip shortage. Nikkei Asia. Toyota expects 2% profit rise as it shrugs off chip shortage - Nikkei Asia
+[^fn-nth-3]: Sugiura, E. (2021, May 12). Toyota expects 2% profit rise as it shrugs off chip shortage. Nikkei Asia. Toyota expects 2% profit rise as it shrugs off chip shortage - Nikkei Asia
 Toyota Motors Corporation. (2021). Sustainability Bond. Woven Planet Bond Framework (Sustainability Bond Framework)  
 
-Toyota Motors Corporation. (2021). Conflicts Minerals Report. FORM SD SPECIALIZED DISCLOSURE REPORT
-Toyota expects annual production target shortfall as chip shortage drags on. (2022, January 18).Reuters. Toyota expects annual production target shortfall as chip shortage drags on | Reuters  
-Toyota Topped G.M. in U.S. Car Sales in 2021, a First for a Foreign Automaker (2022, January 5). The New York Times. Toyota Topped G.M. in U.S. Car Sales in 2021 - The New York Times (nytimes.com)
+[^fn-nth-4]: Toyota Motors Corporation. (2021). Conflicts Minerals Report. FORM SD SPECIALIZED DISCLOSURE REPORT
+
+[^fn-nth-5]: Toyota expects annual production target shortfall as chip shortage drags on. (2022, January 18).Reuters. Toyota expects annual production target shortfall as chip shortage drags on | Reuters  
+
+[^fn-nth-6]: Toyota Topped G.M. in U.S. Car Sales in 2021, a First for a Foreign Automaker (2022, January 5). The New York Times. Toyota Topped G.M. in U.S. Car Sales in 2021 - The New York Times (nytimes.com)
 
 ## Appendix
 
