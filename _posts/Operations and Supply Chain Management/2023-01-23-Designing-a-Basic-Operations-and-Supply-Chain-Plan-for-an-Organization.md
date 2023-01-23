@@ -1,5 +1,5 @@
 ---
-title: "Designing a Basic Operations and Supply Chain Plan for an Organization "
+title: "Designing a Basic Operations and Supply Chain Plan for an Organization"
 date:   2023-01-23 11:35:00 +0545
 categories: [MBA]
 tags: [Operations, Supply chain]
@@ -10,8 +10,6 @@ tags: [Operations, Supply chain]
 - Design a basic operations plan.  
 - Identify the basic operations and supply chain management strategies.  
 - Draw conclusions based on the findings.  
-
-
 
 ## Assignment Overview
 
@@ -26,7 +24,6 @@ This is an individual assignment. Each participant is required to submit their r
 ### Passing Threshold
 
 40%
-
 
 ### Requirements
 
