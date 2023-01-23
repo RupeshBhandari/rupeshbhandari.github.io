@@ -228,9 +228,9 @@ _Figure 8: Flow of Production Instructions_
 
 [^fn-nth-2]: Toyota Motors Corporation. (2021). Sustainability Bond. Woven Planet Bond Framework (Sustainability Bond Framework)  
 
-[^fn-nth-3]: Poliscanova, J. (2021, April 12). In cities 63% support EU ban on petrol and diesel car sales after 2030. Transport & Environment. In cities 63% support EU ban on petrol and diesel car sales after 2030 - Campaigning for cleaner transport in Europe - Transport & Environment -(transportenvironment.org)  
+[^fn-nth-3]: Poliscanova, J. (2021, April 12). In cities 63% support EU ban on petrol and diesel car sales after 2030. Transport & Environment.
 
-[^fn-nth-4]: Toyota expects annual production target shortfall as chip shortage drags on. (2022, January 18).Reuters. Toyota expects annual production target shortfall as chip shortage drags on - Reuters
+[^fn-nth-4]: Toyota expects annual production target shortfall as chip shortage drags on. (2022, January 18). Reuters
 
 [^fn-nth-5]: Toyota Topped G.M. in U.S. Car Sales in 2021, a First for a Foreign Automaker (2022, January 5). The New York Times. Toyota Topped G.M. in U.S. Car Sales in 2021 - The New York Times (nytimes.com)  
 
