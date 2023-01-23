@@ -157,7 +157,7 @@ Discuss the strengths, weaknesses, opportunities, and competition the co
 
 - Growing automobile industry especially in China and other emerging markets.
 - Localizing the design, manufacturing automobile and their parts and components as per the regions in which they are sold. This way the company can reduce exposure to currency rate fluctuations, trade restrictions and tariffs.
-- Reduction of carbon emission from factories by investment in renewable energy generation system, purchase of renewable energy power (Toyota Motors Corporation, 2021).
+- Reduction of carbon emission from factories by investment in renewable energy generation system, purchase of renewable energy power[^fn-nth-7].
 - Establishment of battery collection and recycling systems for battery swaption.
 - Growth in demand for electric vehicles as two-third of urban resident’s support ban on sale of new petrol and diesel vehicles after 2030 in Europe[^fn-nth-2].
 - Using advanced information technologies to enhance productivity in the production process and product development.
@@ -222,9 +222,6 @@ _Figure 7: Assembly Plant Flow_
 ![Figure 8](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture8.png)
 _Figure 8: Flow of Production Instructions_
 
-> Disclaimer: Using this could result in failure as this is against university policy. This is for learning purpose only!
-{: .prompt-warning }
-
 ## Footnotes
 
 [^footnote]: Boudette, E. N. (2022, January 4). Toyota Topped G.M. in U.S. Car Sales in 2021, a First for a Foreign Automaker. The New York Times. Toyota Topped G.M. in U.S. Car Sales in 2021 - The New York Times (nytimes.com)  
@@ -232,10 +229,14 @@ _Figure 8: Flow of Production Instructions_
 [^fn-nth-2]: Poliscanova, J. (2021, April 12). In cities 63% support EU ban on petrol and diesel car sales after 2030. Transport & Environment. In cities 63% support EU ban on petrol and diesel car sales after 2030 - Campaigning for cleaner transport in Europe | Transport & Environment (transportenvironment.org)  
 
 [^fn-nth-3]: Sugiura, E. (2021, May 12). Toyota expects 2% profit rise as it shrugs off chip shortage. Nikkei Asia. Toyota expects 2% profit rise as it shrugs off chip shortage - Nikkei Asia
-Toyota Motors Corporation. (2021). Sustainability Bond. Woven Planet Bond Framework (Sustainability Bond Framework)  
 
 [^fn-nth-4]: Toyota Motors Corporation. (2021). Conflicts Minerals Report. FORM SD SPECIALIZED DISCLOSURE REPORT  
 
 [^fn-nth-5]: Toyota expects annual production target shortfall as chip shortage drags on. (2022, January 18).Reuters. Toyota expects annual production target shortfall as chip shortage drags on | Reuters  
 
 [^fn-nth-6]: Toyota Topped G.M. in U.S. Car Sales in 2021, a First for a Foreign Automaker (2022, January 5). The New York Times. Toyota Topped G.M. in U.S. Car Sales in 2021 - The New York Times (nytimes.com)  
+
+[^fn-nth-7]: Toyota Motors Corporation. (2021). Sustainability Bond. Woven Planet Bond Framework (Sustainability Bond Framework)  
+
+> Disclaimer: Using this could result in failure as this is against university policy. This is for learning purpose only!
+{: .prompt-warning }
