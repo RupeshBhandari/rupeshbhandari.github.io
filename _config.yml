@@ -88,7 +88,7 @@ avatar: https://avatars.githubusercontent.com/u/82154284?s=400&u=5568c80172378ab
 toc: true
 
 comments:
-  active: true     # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active:     # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # Giscus options › https://giscus.app
   giscus:
     repo: 'RupeshBhandari/rupeshbhandari.github.io'        # <gh-username>/<repo>
