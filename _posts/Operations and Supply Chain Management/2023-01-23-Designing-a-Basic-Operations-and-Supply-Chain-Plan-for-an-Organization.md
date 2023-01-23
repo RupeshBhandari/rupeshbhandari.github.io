@@ -11,6 +11,10 @@ tags: [Operations, Supply chain]
 - Identify the basic operations and supply chain management strategies.  
 - Draw conclusions based on the findings.  
 
+
+
+## Assignment Overview
+
 ### Assignment Type
 
 This is an individual assignment. Each participant is required to submit their response by uploading the answer document in MS Word format.  
@@ -23,7 +27,8 @@ This is an individual assignment. Each participant is required to submit their r
 
 40%
 
-## Assignment Overview
+
+### REquirements
 
 For this assignment, you need to choose any physical, consumer product such as a car, smartphone, furniture, watch, toothpaste, sanitizer, shoe, microwave, refrigerator, or fan. Identify a company that manufactures the product that you have chosen. The identified company should be a publicly listed company (NYSE/NSE/BSE/Forbes top 500 company).
 
@@ -208,43 +213,27 @@ Toyota Motors Corporation. (2021). Sustainability Bond. Woven Planet Bond Framew
 
 ## Appendix
 
-Figure 1
-Dealers and outlets in Japan
 ![Figure 1](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture1.png)
 _Figure 1: Dealers and outlets in Japan_
 
-Figure 2
-Production data per region
 ![Figure 2](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture2.png)
 _Figure 2: Production data per region_
 
-Figure 3
-Unit Sales per region
 ![Figure 3](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture3.png)
 _Figure 3: Unit Sales per region_
 
-Figure 4
-Share price movement
 ![Figure 4](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture4.png)
 _Figure 4: Share price movement_
 
-Figure 5
-Market Capitalization movement
 ![Figure 5](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture5.png)
 _Figure 5: Market Capitalization movement_
 
-Figure 6
-Sales comparison of automobile companies
 ![Figure 6](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture6.png)
 _Figure 6: Sales comparison of automobile companies_
 
-Figure 7
-Assembly Plant Flow
 ![Figure 7](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture7.png)
 _Figure 7: Assembly Plant Flow_
 
-Figure 8
-Flow of Production Instructions
 ![Figure 8](/assets/img/Operations%20and%20Supply%20Chain%20Management/Picture8.png)
 _Figure 8: Flow of Production Instructions_
 
