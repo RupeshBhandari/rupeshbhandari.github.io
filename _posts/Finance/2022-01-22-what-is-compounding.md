@@ -1,6 +1,5 @@
 ---
 title: "What is compounding?"
-author: Rupesh Bhandari
 date:   2023-01-21 21:06:00 +0545
 categories: [Finance]
 tags: [compounding, saving]
