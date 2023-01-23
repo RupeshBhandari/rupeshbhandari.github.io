@@ -1,6 +1,5 @@
 ---
 title:  "How to Create Disposable Email Address with Yopmail?"
-author: Rupesh Bhandari
 date:   2021-04-14 22:10:00 +0545
 categories: [Tutorial] 
 tags: [disposable mail] 

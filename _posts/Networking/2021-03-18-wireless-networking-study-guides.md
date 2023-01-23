@@ -1,6 +1,5 @@
 ---
 title:  "Wireless Networking Study Guides"
-author: Rupesh Bhandari
 date:   2021-03-18 14:21:50 +0545
 categories: [Networking] 
 tags: [CCNA, Wireless, Network Administration, Security Professional] 

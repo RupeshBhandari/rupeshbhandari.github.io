@@ -1,6 +1,5 @@
 ---
 title:  "What is VPCS? How to set it up in GNS3?"
-author: Rupesh Bhandari
 date:   2021-04-14 22:10:00 +0545
 categories: [Networking, CCNA, GNS3, Packet Tracer] 
 tags: [GNS3, Packet Tracer] 
