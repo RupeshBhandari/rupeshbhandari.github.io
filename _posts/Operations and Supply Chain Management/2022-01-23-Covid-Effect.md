@@ -1,6 +1,6 @@
 ---
 title:  "Covid Effect"
-date:   2021-06-29 22:10:00 +0545
+date:   2022-06-29 22:10:00 +0545
 categories: [MBA] 
 tags: [operations] 
 ---

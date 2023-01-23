@@ -1,6 +1,6 @@
 ---
 title: "Designing a Basic Operations and Supply Chain Plan for an Organization"
-date:   2023-01-23 11:35:00 +0545
+date:   2022-06-23 11:35:00 +0545
 categories: [MBA]
 tags: [Operations, Supply chain]
 ---
