@@ -92,16 +92,20 @@ In other region, the company’s automobiles are sold via approx. 168 distributo
 The company procures parts and components from all over word for its 50 overseas operations in 27 countries. The suppliers are selected after competition based on quality and costs. Cost reduction is done by competitiveness through localization, components and manufacturing reforms, sharing parts and manufacturing products corresponding customers’ needs as per geography and car category in conjunction with ‘Ryohin-Renka Cost Innovation’ (elimination of waste in all processes) approach. After manufacturing the vehicle, the standardized system of global distribution moves the product to the end users in a timely manner.
 
 Distribution systems used in US can be further divided into three categories:
-Distribution of vehicles manufactured in North America:
-After factory, vehicles are brought to the marshalling yard, where they are prepared and shipped to dealership offices by truck or train.
 
-Distribution of vehicles produced overseas:
-Large containers are used to carry vehicles manufactured in Japan to ports in North America based on the proximity to dealers. Usually, the delivery time is between three to five weeks.
+1. Distribution of vehicles manufactured in North America:
+    After factory, vehicles are brought to the marshalling yard, where they are prepared and shipped to dealership offices by truck or train.
 
-Scion model of distribution:
-In Scion model, the automobiles arrive with only basic equipment installed to be further customized accordingly as per specifications.
+2. Distribution of vehicles produced overseas:
+    Large containers are used to carry vehicles manufactured in Japan to ports in North America based on the proximity to dealers. Usually, the delivery time is between three to five weeks.
+
+3. Scion model of distribution:
+    In Scion model, the automobiles arrive with only basic equipment installed to be further customized accordingly as per specifications.
+
 European distribution pattern is different due to lack of room for vehicle stock as most of the deals are situated in urban areas. Normally after production the product is moved to marshalling yard and then shipped or moved by truck to hub (consolidation place). Some small countries share a single hub whereas some bigger countries have multiple hubs. These ‘hubs’ perform the function of warehouse, and the inventory is managed in concert with dealer.
+
 The production is done once a customer makes an order. This is different than traditional push approach. The batches are small with less inventory, single minute exchange of die (SMED), production flexibility is some of its features. Cycle time at each station is based on takt time which is cycle time matching demand. Normally the product is moved very frequently in small batches.
+
 The company moves the product in such a way because the holding cost is higher and the whole supply chain efficiency is more. This way the coordination between the actors within the supply chain is greater than other systems.
 
 ## Question 3  
@@ -111,8 +115,11 @@ Have there been any changes in their operations management/supply chain lo
 (Approximate word limit: 300–350)  
 
 In 2019, Typhoon Hagibis caused huge damages in Japan, but the company’s operations was restored quickly due to the early rebuilding of affected areas and by alternative production by suppliers.
+
 In 2020, the world economy except China experienced a year-on-year contraction, in both advanced and developing countries due to COVID-19, as well as voluntary stay-at-home efforts and stay-at-home orders lead to difficult situations such as launch of substantial monetary easing measures and reduction in public spending in many countries around the world. In Europe resurgence of new cases and repetitive lockdowns triggered economic stagnation. USA, one of the biggest markets of the carmaker, recovered quickly due to major stimulus measures and monetary easing policy. In the midst of an economic slowdown in Japan triggered by spending tax raise in October 2019, the financial system suffered a sudden slowdown due to declaration of state of emergency and voluntary stay-at-home due to the epidemic. China experienced a rapid recovery from mid-2020 due to early suppression of the spread of COVID-19. The pent-up demand and the electric tax incentive increased the sales of electric vehicles in China whereas Other Asian nations experienced slowdown.
+
 The automotive industry was affected by the preceding factors due to which the industry suffered a year-on-year reduction for the third consecutive year causing a market contraction more than during the 2008 financial crisis. Both advanced and developing countries largely logged year-on-year contractions, including China, which achieved an immediate economic recovery, logged a year-on-year slowdown for the third consecutive year. Advanced markets, which had ample economic capability, have recovered more rapidly than developing markets, and the velocity of recovery has differed from nation to nation, as it is affected by the pervasiveness and seriousness of contaminations.
+
 With the tightening of the environment regulations and the expected discontinuation of sale of petrol and diesel vehicles has shifted the demand trajectory for electric vehicles. This has changed the company’s operations as the assembly line and supply chain are modified to serve excess demand of electric vehicles. New suppliers who supply electronic components for Electronic Vehicles are being integrated into the supply chain. For example, the company partnered with Denso for manufacturing and expansion of electronic parts at Toyota’s Hirose Plant for quick production structure. In 2017, the company entered a partnership with Panasonic for production of prismatic battery business. Similarly, Toyota and Mazda collaborated in production of compact cars based on hybrid technologies. Lithium-ion battery usage in electric vehicles demanded a new shift for the company and the company did so with collaboration with multiple new suppliers. In April 2019, the company gave away the royalty rights to multiple patents related to electrification-related technologies such as system controls, power control units (PCUs),  and electric motors.
 
 The company shifted their focus of operation to incorporate electric vehicles because of the heightened awareness and operating cost efficiency, incentives offered by governments around the world, leading to increase in demand, tightening of environmental regulations. The company gave the patents for free so to promote widespread use of battery electric vehicles. Various external factor changes mentioned above caused the change in operation and its strategy for remaining competitive in the market and for catering to new need of the consumers.
@@ -166,6 +173,7 @@ Mitigation strategies:
 - Streamlining production systems with the use of advanced information technologies
 - Bolstering and encouraging Ryohin-Renka Cost Innovation (“RR-CI”) activity for removal of excess from all activities such as design and production alongside guaranteeing the consistency in addition to safety.
 - Improve manufacturing efficiency by installation of more flexible equipment and systems, altering automobile body designs to enable production of larger array of models on each assembly line and for sharing more modules between cars.
+
 Demand for automobile is tied to per capita disposable income, fuel prices, vehicle prices and product innovation. So, the company’s focus on innovation and the industry’s trajectorial shift to connected vehicles and autonomous vehicles with integration of internet of things-based devices and technologies could propel the company to newer heights. However, due to intense competition, discovery of new technologies and adaption of new technologies quickly by competitor can result in failure for the company.
 
 ## Question 5  
@@ -181,7 +189,7 @@ The various issues that the company is facing during the COVID-19 crisis are as 
 - Reduced in demand due to disruption caused by pandemic.
 - Temporary shutdown or suspension of assembly of vehicle and components at factories in Japan and other regions.
 
-Due to the pandemic, achieving the 9 million sales target is going to be hard due to semiconductor shortage[^fn-nth-5]. In 2021, the whole industry sold just over 15 million new vehicles well below the expectation of 2.5% [^fn-nth-6]. However, that is 2.5 percent more than in 2020. During the year the company reported an 8.9% decrease year-on-year, to 27.21 million yen. The unit sales dropped by 1.3 million (14.6%)[^fn-nth-4]. The reduction in production volume due to demand shock affected the operating income and net profit. By region, the revenue decreased by 6.6% in Europe, 10.8 percent in North America, 9.1% in Japan and 11.4% in other regions. Due to better availability of semiconductor, the company is better poised than competitors for fulfilling the demand. The company expects its sales will increase by 2.4% [^fn-nth-3]. The share price of the company has increased from $108.08 to $199.77 In percentage terms, it is an increase of 84.84% (see Figure 4).  The market cap of the company has increased by 42.52% since 2019 (see Figure 5). The rise indicates that the company’s investors’ expectations are high. The company’s successful inventory management of semiconductors helped the company’s performance in comparison to rivals.
+Due to the pandemic, achieving the 9 million sales target is going to be hard due to semiconductor shortage[^fn-nth-5]. In 2021, the whole industry sold just over 15 million new vehicles well below the expectation of 2.5%[^fn-nth-6]. However, that is 2.5 percent more than in 2020. During the year the company reported an 8.9% decrease year-on-year, to 27.21 million yen. The unit sales dropped by 1.3 million (14.6%)[^fn-nth-4]. The reduction in production volume due to demand shock affected the operating income and net profit. By region, the revenue decreased by 6.6% in Europe, 10.8 percent in North America, 9.1% in Japan and 11.4% in other regions. Due to better availability of semiconductor, the company is better poised than competitors for fulfilling the demand. The company expects its sales will increase by 2.4%[^fn-nth-3]. The share price of the company has increased from $108.08 to $199.77 In percentage terms, it is an increase of 84.84% (see Figure 4).  The market cap of the company has increased by 42.52% since 2019 (see Figure 5). The rise indicates that the company’s investors’ expectations are high. The company’s successful inventory management of semiconductors helped the company’s performance in comparison to rivals.
 
 ## References
 
