@@ -2,7 +2,7 @@
 title: "LESSONS FROM 101 SIMPLE TRUTHS FOR A BETTER LIFE"
 date: 2023-02-05 00:00:00 +0545
 categories: [Books]
-tags: [Book Lesson]]
+tags: [Book Lesson]
 ---
 
 Here are the lessions I learned from the book 101 Simple Truths for a Better Life by David J. Pollay.
