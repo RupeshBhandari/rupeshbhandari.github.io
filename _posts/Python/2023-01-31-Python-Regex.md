@@ -5,7 +5,7 @@ categories: [Python]
 tags: [Regex]
 ---
 
-RegEx Module
+RegEx Module  
 Python has a built-in package called re, which can be used to work with Regular Expressions.
 
 Import the re module:
@@ -30,7 +30,7 @@ sub | Replaces one or many matches with a string
 
 The findall() function returns a list containing all matches.
 
-Example
+Example  
 Print a list of all matches:
 
 ```python
@@ -47,7 +47,7 @@ The search() function searches the string for a match, and returns a Match objec
 
 If there is more than one match, only the first occurrence of the match will be returned:
 
-Example
+Example  
 Search for the position in the string:
 
 ```python
@@ -62,7 +62,7 @@ print("The position of the search string is:", x.start())
 
 The split() function returns a list where the string has been split at each match:
 
-Example
+Example  
 Split at each white-space character:
 
 ```python
@@ -77,7 +77,7 @@ print(x)
 
 The sub() function replaces the matches with the text of your choice:
 
-Example
+Example  
 Replace every white-space character with "_":
 
 ```python
@@ -102,7 +102,7 @@ $ | Ends with
 \* | Zero or more occurrences
 \+ | One or more occurrences
 {} | Exactly the specified number of occurrences
-| | Either or
+\| | Either or
 () | Capture and group
 
 ## Special Sequences
