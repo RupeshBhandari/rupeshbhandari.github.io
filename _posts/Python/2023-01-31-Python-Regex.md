@@ -1,7 +1,6 @@
 ---
 title:  "Python Regex"
 date:   2023-01-15 22:10:00 +0545
-pin: true
 categories: [Python]]
 tags: [Regex]
 ---
