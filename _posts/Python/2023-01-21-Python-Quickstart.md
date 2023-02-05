@@ -2,7 +2,7 @@
 title:  "Python Quickstart"
 date:   2023-01-15 22:10:00 +0545
 pin: true
-categories: [Books]
+categories: [Books, Python]
 tags: [Python]
 ---
 
