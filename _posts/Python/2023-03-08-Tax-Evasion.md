@@ -12,7 +12,16 @@ tags: [tax]
 |Some Momos|example| Not providng proper bill |
 
 
-## Explanation
+## Details
+| Company Name | Remarks |
+|:---|:---|
+| Shandar Momo & Stick Foods Saraswatinagar | Bank Account Used: Account Name: |
 
+
+
+## Explanation
+> Notes
+{: .prompt-info }
 Personal QR: Using Personal Account for receiving payment
 Fake Bill
+
