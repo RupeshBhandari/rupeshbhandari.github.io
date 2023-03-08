@@ -7,15 +7,16 @@ tags: [tax]
 
 ## Companies list
 |Company Name | Address | Technique used |
-|:---|:---|---:|
-|Shandar Momo & Stick Foods Saraswatinagar| https://maps.app.goo.gl/biwBZQDzkkh6sVX46?g_st=ic  | Personal QR |
+|:---|:---:|---:|
+|Shandar Momo & Stick Foods Saraswatinagar| [Link](https://maps.app.goo.gl/biwBZQDzkkh6sVX46?g_st=ic)  | Personal QR |
 |Some Momos|example| Not providng proper bill |
 
 
 ## Details
 | Company Name | Remarks |
 |:---|:---|
-| Shandar Momo & Stick Foods Saraswatinagar | Bank Account Used: Account Name: |
+| Shandar Momo & Stick Foods Saraswatinagar | Account Name: asd Account Number: 99857|
+
 
 
 
