@@ -5,8 +5,15 @@ categories: [Taxation]
 tags: [tax] 
 ---
 
-
-
 ## Companies list
-1. Asd
-2.
+|Company Name | Address | Technique used |
+---|---|---|
+|Shandar Momo & Stick Foods Saraswatinagar|
+https://maps.app.goo.gl/biwBZQDzkkh6sVX46?g_st=ic  | Personal QR |
+|Some Momos| 
+---
+
+## Explanation
+
+Personal QR: Using Personal Account for receiving payment
+
