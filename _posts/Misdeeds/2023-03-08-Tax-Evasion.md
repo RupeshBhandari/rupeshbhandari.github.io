@@ -18,7 +18,7 @@ tags: [tax]
 
 ## Details
 |Company Name|Remarks|
-|:---|:---|
+|---|---|
 | Shandar Momo & Stick Foods Saraswatinagar | Account Name: Tek Narayan  Account Number: 99857|
 |kjh
 
