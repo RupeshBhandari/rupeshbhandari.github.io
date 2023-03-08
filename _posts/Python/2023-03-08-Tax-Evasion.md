@@ -1,6 +1,6 @@
 ---
 title:  "Tax Evasion"
-date:   2023-03-08 22:10:00 +0545
+date:   2023-03-08 07:10:00 +0545
 categories: [Taxation] 
 tags: [tax] 
 ---
@@ -10,7 +10,8 @@ tags: [tax]
 ---|---|---|
 |Shandar Momo & Stick Foods Saraswatinagar|
 https://maps.app.goo.gl/biwBZQDzkkh6sVX46?g_st=ic  | Personal QR |
-|Some Momos| 
+|Some Momos|example| Not providng proper bill |
+ 
 ---
 
 ## Explanation
