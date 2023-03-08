@@ -7,9 +7,8 @@ tags: [tax]
 
 ## Companies list
 |Company Name | Address | Technique used |
----|---|---|
-|Shandar Momo & Stick Foods Saraswatinagar|
-https://maps.app.goo.gl/biwBZQDzkkh6sVX46?g_st=ic  | Personal QR |
+|:---|:---|---:|
+|Shandar Momo & Stick Foods Saraswatinagar| https://maps.app.goo.gl/biwBZQDzkkh6sVX46?g_st=ic  | Personal QR |
 |Some Momos|example| Not providng proper bill |
  
 ---
