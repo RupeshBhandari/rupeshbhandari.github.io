@@ -1,6 +1,6 @@
 ---
 title: "LESSONS FROM 101 SIMPLE TRUTHS FOR A BETTER LIFE"
-date: 2023-02-05 00:00:00 +0545
+date:   2023-02-15 22:10:00 +0545
 categories: [Books]
 tags: [Book Lesson]
 ---
