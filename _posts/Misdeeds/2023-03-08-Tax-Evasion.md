@@ -17,9 +17,10 @@ tags: [tax]
 
 
 ## Details
+
 |Company Name|Remarks|
 |---|---|
-|Shandar Momo & Stick Foods Saraswatinagar| Account Name  Account Number 99857|
+|Shandar Momo & Stick Foods Saraswatinagar| Account Name: asdddd Account Number: 99857|
 
 
 
